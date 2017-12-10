@@ -7,9 +7,9 @@
     "require": {
         "nesbot/carbon": "~1.21"
     },
-    "autoload": {
+  "autoload": {
         "psr-4": {
-            "numbertoword\\": "src/"
+			"numbertoword\\": "src/"   
         }
     }
 }
