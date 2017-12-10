@@ -1,0 +1,11 @@
+{
+   "name": "Neethimozhi A",
+    "description": "composer package creation test.",
+    "license": "MIT",
+    "type": "project",
+
+    "require": {
+        "nesbot/carbon": "~1.21"
+    }
+
+}
